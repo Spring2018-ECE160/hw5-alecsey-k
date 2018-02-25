@@ -4,4 +4,15 @@
 
 Compile Steps:
 
+gcc hw5q2.c -o hw5q2.exe
+
 Output:
+
+s1 = Birth, t1 = day
+Birthday
+
+s2 = Basket, t2 = ball
+Basketball
+
+s3 = Rail, t3 = road
+Railroad
