@@ -4,4 +4,15 @@
 
 Compile Steps:
 
+gcc hw5q4.c -o hw5q4.exe
+
 Output:
+
+s1 = Football, t1 = Railroad, n1 = 4
+Railball
+
+s2 = Himself, t2 = Her, n2 = 5
+Herself
+
+s3 = Computer, t3 = Monitor, n3 = 5
+Monitter

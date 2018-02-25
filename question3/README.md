@@ -4,4 +4,12 @@
 
 Compile Steps:
 
+gcc hw5q3.c -o hw5q3.exe
+
 Output:
+
+s1 = Birthday, t1 = day, result = 1
+
+s2 = Basketball, t2 = bal, result = 0
+
+s3 = Railroad, t3 = road, result = 1
